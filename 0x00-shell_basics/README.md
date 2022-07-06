@@ -1,3 +1,5 @@
-# Basics of shell commands
-
-Find here the main shell commands you can directly run for different purposes (the name of the file describes what the command does)
+<<<<<<< HEAD
+shell basics
+=======
+shell basic
+>>>>>>> ef90c6a5c8829f162ea91a758d48a920d5c522fd
